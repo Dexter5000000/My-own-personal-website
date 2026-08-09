@@ -1,0 +1,44 @@
+body{
+ background-image: url(index-anime-1674137684.png);
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-position: center;
+ background-size: cover;   
+}
+h1{
+    color:#00aac3 ;
+    border-top-style:dotted ;
+    border-bottom-style:dotted;
+    border-left-style:double;
+    border-left-width: 10px;
+    border-left-color: silver;
+    background: linear-gradient( to left, blue, red);
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    
+}
+pre{
+    background-color:#00b865 ;
+    color:#2a338a ;
+    font-family: "consolas", sans-serif;
+    background: linear-gradient( to left, blue, red);
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+}
+pre{
+    border-style:inset;
+    border-width: 5px;
+    border-color: gold;
+    border-radius: 10;
+    padding: 5px;
+    width: 620px;
+    height: 1020px;
+    font-size: 22px;
+    
+}
+h4{
+    text-shadow: 5px 5px 5px grey
+}
+pre{
+    box-shadow: 3px 3px 5px;
+}
