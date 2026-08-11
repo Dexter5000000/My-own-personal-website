@@ -1,0 +1,3 @@
+This is my website that I made a and worked on a month ago with the help of visual studio code and Iconify by downloading some of their logos and moving them to my website 
+This was a fun process and I am still thinking of Ideas on how I should work on the project a bit more but I don't think I'm going to add JavaScript for now because it's bit confusing for me right now 
+But, as you can see I added art.html, index.html, and songs.html and then styled the website with CSS and added screenshots for my Photography page... I had to learn a bit of CSS and HTML to build this. I'm now thinking of including a Bio page about myself and maybe a built with love thing at the bottom maybe?
